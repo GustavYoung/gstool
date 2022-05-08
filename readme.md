@@ -2,25 +2,6 @@
 
 ###Clonar este git directamente en la terminal de la rasp adentro de la carpeta uslu
 
-```
-git clone https://<Nombre_de_usuario>@bitbucket.org/miraiworks/gstool.git
-```
-###Si tiene su branch propio para la configuracion hay que especificar el branch
-```
-git clone -b cerveceria_de_barrio1 https://Kelpo64@bitbucket.org/miraiworks/gstool.git
-```
-
-###Usar "git status" para verficar que este en el master branch
-
-###Hacer el intercambio de llaves necesario 
-
-###Configurar el archivo cliente.cfg y el alternativo en caso de multiples trabajos para playlists, etc.
-
-###En caso de que el archivo cliente ya tenga una version para el cliente se puede descargar desde:
-```
-uxmal-ftp@uxm3.uxmalstream.com:3113/home/uxm3-bk/CLIENTES/
-```
-
 ###Usar el comando de actualizacion manualmente por primera vez para ajustar el intercambio de llaves
 ```
 #Para memorias nuevas que tienen la aplicacion nativa 2.0
